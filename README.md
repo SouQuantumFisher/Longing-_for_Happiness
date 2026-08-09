@@ -1,4 +1,4 @@
-# 🤫〜🍌 Quantum Aesthetic YAML Art 〜🍌🤫
+# Quantum Aesthetic YAML Art 
 ## Gustav Klimt's Beethoven Frieze through Dark Matter Aesthetics
 
 ```yaml
